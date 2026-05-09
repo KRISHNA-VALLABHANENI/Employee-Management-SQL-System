@@ -45,7 +45,6 @@ SQL-Company-Database-Management/
 ├── basic_queries.sql
 ├── advanced_queries.sql
 ├── procedures_and_transactions.sql
-└── README.md
 ```
 
 ---
